@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <!-- <Nullable>enable</Nullable> -->
 
-    <PackageId>TestEngine</PackageId>
+    <PackageId>Phader</PackageId>
     <Version>1.0.0</Version>
     <Authors>Mason Reed</Authors>
     <Company>Genge Gaming</Company>

@@ -6,7 +6,7 @@ namespace TestGame
     {
         private static void Main(string[] args)
         {
-            new Phader.Game(new GameOptions(800, 600, "Test Window", new GameScene()));
+            new Phader.Game(new GameOptions(800, 600, "Phader Test", new GameScene()));
         }
     }
 }

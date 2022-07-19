@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEngine", "TestEngine\TestEngine.csproj", "{AA483B18-3504-4AF4-B40D-5A93A374C171}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phader", "Phader\Phader.csproj", "{AA483B18-3504-4AF4-B40D-5A93A374C171}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame", "TestGame\TestGame.csproj", "{ADF75FAC-4CB9-4BCD-9C34-20A6F3A14729}"
 EndProject
